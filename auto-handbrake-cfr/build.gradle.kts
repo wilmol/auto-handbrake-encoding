@@ -3,8 +3,8 @@ import org.unbrokendome.gradle.plugins.testsets.dsl.testSets
 
 plugins {
   id("org.unbroken-dome.test-sets") version "4.1.0"
-  id("com.google.cloud.tools.jib") version "3.4.0"
-  id("org.ajoberstar.grgit") version "5.2.0"
+  id("com.google.cloud.tools.jib") version "3.4.4"
+  id("org.ajoberstar.grgit") version "5.3.0"
 }
 
 testSets {
